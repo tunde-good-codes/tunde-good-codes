@@ -19,7 +19,7 @@ on backend — Node.js, Nestjs, Express.js, REST APIs, microservices databases. 
 |---------|-------|------|
 | Pinovx | React, React-Native, Nestjs, Typescript,  Express, MongoDB | [pinovx.com](https://pinovx.com) |
 | Eraconneckt | React, Next.js, Node.js | [eraconneckt.org](https://eraconneckt.org) |
-| HRTechish | React, Express, MongoDB | [hrtechish-frontend.onrender.com](https://hrtechish-frontend.onrender.com) |
+| HRTechish | React, Express, MongoDB | [hrtechish.com](https://hrtechish.com) |
 | Era-tek | Next.js | [era-tek.io](https://era-tek.io) |
 | MakeUpByOlabisi | React, CMS | [labisibeauty.com](https://labisibeauty.com) |
 
